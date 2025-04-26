@@ -16,6 +16,6 @@ classs Pessoa:
         self.nome = nome
         self.idade = idade
 
-#Exemplo 0100
+#Exemplo 01002323
 
     
